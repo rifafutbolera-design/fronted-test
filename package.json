@@ -4,7 +4,7 @@
     "react-dom": "^19.0.0",
     "react-scripts": "^5.0.0",
     "framer-motion": "latest",
-    "react-icons": "latest",
+    "react-icons": "3.11.0",
     "react-router-dom": "latest"
   },
   "main": "/index.js",
